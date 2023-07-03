@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+	font-family: Roboto;
+}
+
+header {
+	background-color:lightgreen; 
+	height: 20rem;
+	top: 1rem;
+	right: 1rem;
+	position: absolute;
+	width: 100%;
+}
+
+.infobox {
+	background-color: lightsalmon;	
+	width: 20rem;
+	height: 10rem;
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+}
+
+h1 {
+	position: absolute;
+	top: 1rem;
+	right: 1rem;
+}
